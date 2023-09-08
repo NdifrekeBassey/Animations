@@ -7,7 +7,7 @@
 }
 
 body {
-    background-color:#3e27be;
+    background-color:#2e0fe0;
     align-items:center ;
     justify-content:center ;
     width:100%;
@@ -422,5 +422,5 @@ q{
 }
 
 .copi a{
-    color:orange;
+    color:rgb(255, 255, 255);
 }
